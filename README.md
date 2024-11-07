@@ -12,8 +12,8 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=amoh-ntim&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats">
-
 </p>
+
 <h3 align="center">GitHub Achievements 🏆</h3>
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
