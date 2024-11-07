@@ -11,7 +11,8 @@
 
 <h3 align="center">GitHub Streak Stats 🔥</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=amoh-ntim&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amoh-ntim&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats">
+
 </p>
 
 
