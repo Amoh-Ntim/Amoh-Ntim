@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amoh Ntim</h1>
-<h3 align="center">A passionate frontend developer from Ghana. I Elevate User Interfaces with Precision and Creativity. Transforming Vision into Seamless User Experiences. Crafting Code with Heart and Innovation.</h3>
+<h3 align="center">A passionate software engineer from Ghana. I Elevate User Interfaces with Precision and Creativity. Transforming Vision into Seamless User Experiences. Crafting Code with Heart and Innovation.</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.f1e734f9cade86fe737a9aa404ad5677?rik=QdksIkqekD8DOQ&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amoh-ntim&label=Profile%20views&color=0e75b6&style=flat" alt="amoh-ntim" /> </p>
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/amohntim" target="blank"><img src="https://img.shields.io/twitter/follow/amohntim?logo=twitter&style=for-the-badge" alt="amohntim" /></a> </p>
 
-- 🔭 I’m currently working on **front-end projects with a few IT companies**
+- 🔭 I’m currently working on **fullStack projects with a few IT companies**
 
-- 🌱 I’m currently learning **Computer Science and Currently diving deep into frontend technologies like React, JavaScript, React Native, and a multitude of others.**
+- 🌱 I’m currently learning **Computer Science and Currently diving deep into fullStack technologies like React, JavaScript, React Native, and a multitude of others.**
 
 - 👯 I’m looking to collaborate on **numerous IT projects**
 
