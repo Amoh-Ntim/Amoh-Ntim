@@ -7,7 +7,7 @@
   🌐 <a href="https://sammycom.vercel.app" target="_blank" style="font-size: 20px; font-weight: bold;">Visit My Portfolio Website</a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/amohntim" target="blank"><img src="https://img.shields.io/twitter/follow/amohntim?logo=twitter&style=for-the-badge" alt="amohntim" /></a> </p>
+<p align="left"> <a href="[https://twitter.com/amohntim](https://x.com/amohntim2?t=MMRp-KWy9udN8gHIjZSrxQ&s=09)" target="blank"><img src="https://img.shields.io/twitter/follow/amohntim?logo=twitter&style=for-the-badge" alt="amohntim" /></a> </p>
 <h3 align="center">GitHub Streak Stats 🔥</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amoh-ntim&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats">
@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on **fullStack projects with a few IT companies**
 
-- 🌱 I’m currently learning **Computer Science and Currently diving deep into fullStack technologies like React, JavaScript, React Native, and a multitude of others.**
+- 🌱 I’m a **Computer Scientist and Currently diving deep into fullStack technologies like React, JavaScript, React Native, along side Artificial Intelligence and a multitude of others.**
 
 - 👯 I’m looking to collaborate on **numerous IT projects**
 
@@ -31,7 +31,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/amoh-ntim-46855420a](https://www.linkedin.com/in/amoh-ntim-46855420a)
 
-- ⚡ Fun fact **I harmonize my love for music, coding, computer science, and basketball to create my own unique rhythm in life.**
+- ⚡ Fun fact **I harmonize my love for music, coding and programming , and basketball to create my own unique rhythm in life.**
 
   <h3 align="left">Languages and Tools:</h3>
 <p align="left">
