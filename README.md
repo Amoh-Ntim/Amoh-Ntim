@@ -41,8 +41,9 @@
 
 <h3 align="center">Contribution Graph 📈</h3>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Amoh-Ntim&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amoh-ntim&theme=react-dark" alt="Contribution Graph"/>
 </p>
+
 
 <h3 align="center">GitHub Achievements 🏆</h3>
 <p align="center"> 
