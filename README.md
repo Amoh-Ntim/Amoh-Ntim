@@ -7,6 +7,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amoh-ntim" alt="amoh-ntim" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/amohntim" target="blank"><img src="https://img.shields.io/twitter/follow/amohntim?logo=twitter&style=for-the-badge" alt="amohntim" /></a> </p>
+<h3 align="center">GitHub Achievements 🏆</h3>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=amoh-ntim&theme=gruvbox&margin-w=15&margin-h=15&column=7&no-frame=true" alt="GitHub Trophies" />
+  </a> 
+</p>
 
 - 🔭 I’m currently working on **fullStack projects with a few IT companies**
 
@@ -37,11 +43,6 @@
 <h3 align="center">GitHub Streak Stats 🔥</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amoh-ntim&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats">
-</p>
-
-<h3 align="center">Contribution Graph 📈</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amoh-ntim&theme=react-dark" alt="Contribution Graph"/>
 </p>
 
 
