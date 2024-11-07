@@ -10,8 +10,9 @@
 <p align="left"> <a href="[https://twitter.com/amohntim](https://x.com/amohntim2?t=MMRp-KWy9udN8gHIjZSrxQ&s=09)" target="blank"><img src="https://img.shields.io/twitter/follow/amohntim?logo=twitter&style=for-the-badge" alt="amohntim" /></a> </p>
 
 <h3 align="center">GitHub Streak Stats 🔥</h3>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amoh-ntim&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats">
-
+</p>
 
 
 <h3 align="center">GitHub Achievements 🏆</h3>
