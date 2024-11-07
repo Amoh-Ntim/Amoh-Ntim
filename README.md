@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amoh-ntim&label=Profile%20views&color=0e75b6&style=flat" alt="amoh-ntim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amoh-ntim" alt="amoh-ntim" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/amohntim" target="blank"><img src="https://img.shields.io/twitter/follow/amohntim?logo=twitter&style=for-the-badge" alt="amohntim" /></a> </p>
 <h3 align="center">GitHub Achievements 🏆</h3>
 <p align="center"> 
