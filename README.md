@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amoh Ntim</h1>
 <h3 align="center">A passionate software engineer from Ghana. I Elevate User Interfaces with Precision and Creativity. Transforming Vision into Seamless User Experiences. Crafting Code with Heart and Innovation.</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.f1e734f9cade86fe737a9aa404ad5677?rik=QdksIkqekD8DOQ&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amoh-ntim&label=Profile%20views&color=0e75b6&style=flat" alt="amoh-ntim" /> </p>
 
 <p align="left"> <a href="https://twitter.com/amohntim" target="blank"><img src="https://img.shields.io/twitter/follow/amohntim?logo=twitter&style=for-the-badge" alt="amohntim" /></a> </p>
+<h3 align="center">GitHub Streak Stats 🔥</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amoh-ntim&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats">
+</p>
 <h3 align="center">GitHub Achievements 🏆</h3>
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -38,18 +41,8 @@
   <!-- Add your language and tool icons here as before -->
 </p>
 
-<h3 align="center">GitHub Streak Stats 🔥</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amoh-ntim&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats">
-</p>
 
 
-<h3 align="center">GitHub Achievements 🏆</h3>
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amoh-ntim&theme=gruvbox&margin-w=15&margin-h=15&column=7&no-frame=true" alt="GitHub Trophies" />
-  </a> 
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amoh-ntim&show_icons=true&locale=en&layout=compact" alt="amoh-ntim" /></p>
 
