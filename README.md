@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amoh-ntim&label=Profile%20views&color=0e75b6&style=flat" alt="amoh-ntim" /> </p>
 
 <p align="center">
-  🌐 <a href="https://sammycom.vercel.app" target="_blank" style="font-size: 20px; font-weight: bold;">Visit My Portfolio Website</a>
+  🌐 <a href="https://samuelamohntim.vercel.app" target="_blank" style="font-size: 20px; font-weight: bold;">Visit My Portfolio Website</a>
 </p>
 
 <p align="left"> <a href="[https://twitter.com/amohntim](https://x.com/amohntim2?t=MMRp-KWy9udN8gHIjZSrxQ&s=09)" target="blank"><img src="https://img.shields.io/twitter/follow/amohntim?logo=twitter&style=for-the-badge" alt="amohntim" /></a> </p>
