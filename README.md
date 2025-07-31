@@ -115,7 +115,7 @@ const amohNtim = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amoh-ntim&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 
 ### 📈 Detailed Language Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoh-ntim&theme=radical&hide_border=true&layout=compact&langs_count=12&exclude_repo=repo-name-to-exclude&custom_title=Repository%20Language%20Breakdown&count_private=true" alt="Detailed Language Stats"/>
+<img src="https://github-readme-stats-ntim-amoh.vercel.app/api/top-langs/?username=amoh-ntim&theme=radical&hide_border=true&layout=compact&langs_count=12&exclude_repo=repo-name-to-exclude&custom_title=Repository%20Language%20Breakdown&count_private=true" alt="Detailed Language Stats"/>
 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=amoh-ntim&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
