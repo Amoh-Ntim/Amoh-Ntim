@@ -111,13 +111,13 @@ const amohNtim = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amoh-ntim&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 
 ### 💻 Languages I Code In (Real-time via WakaTime)
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=amohntim&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="WakaTime Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Amoh-Ntim&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="WakaTime Languages"/>
 
 ### ⏰ This Week's Coding Activity
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=amohntim&theme=radical&hide_border=true&custom_title=Weekly%20Coding%20Stats" alt="Weekly Coding Activity"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Amoh-Ntim&theme=radical&hide_border=true&custom_title=Weekly%20Coding%20Stats" alt="Weekly Coding Activity"/>
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=amoh-ntim&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Amoh-Ntim&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 
 </div>
 
