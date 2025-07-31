@@ -1,130 +1,143 @@
-<h1 align="center">Hi 👋, I'm Amoh Ntim</h1>
-<h3 align="center">A passionate software engineer from Ghana. I Elevate User Interfaces with Precision and Creativity. Transforming Vision into Seamless User Experiences. Crafting Code with Heart and Innovation.</h3>
+<div align="center">
+  
+# 👋 Hi, I'm Amoh Ntim
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amoh-ntim&label=Profile%20views&color=0e75b6&style=flat" alt="amoh-ntim" /> </p>
+### 🚀 Software Engineer | Full-Stack Developer | AI Enthusiast
+*Elevating User Interfaces with Precision and Creativity*  
+*Transforming Vision into Seamless User Experiences*  
+*Crafting Code with Heart and Innovation*
+
+<img src="https://komarev.com/ghpvc/?username=amoh-ntim&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+---
+
+## 🌟 About Me
+
+```typescript
+const amohNtim = {
+    location: "Ghana 🇬🇭",
+    currentRole: "Full-Stack Developer",
+    education: "Computer Science",
+    passions: ["Coding", "Music", "Basketball", "AI/ML"],
+    currentFocus: "Building scalable web applications with modern tech stack",
+    openToCollaborate: true,
+    funFact: "I harmonize my love for music, coding, and basketball! 🎵💻🏀"
+};
+```
+
+---
+
+## 🎯 Current Focus
+
+🔭 **Working on:** Full-stack projects with various IT companies  
+🌱 **Learning:** Advanced React patterns, AI/ML, and cloud technologies  
+👯 **Collaboration:** Open to exciting IT projects and innovative solutions  
+💬 **Ask me about:** MERN Stack, React Native, JavaScript, and modern web development  
+📧 **Reach me:** [amohntim123@gmail.com](mailto:amohntim123@gmail.com)
+
+---
+
+## 🔗 Connect With Me
 
 <p align="center">
-  🌐 <a href="https://samuelamohntim.vercel.app" target="_blank" style="font-size: 20px; font-weight: bold;">Visit My Portfolio Website</a>
+  <a href="https://samuelamohntim.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/amoh-ntim-46855420a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/amohntim2" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://instagram.com/i.ntim_ate" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
-<p align="left"> <a href="[https://twitter.com/amohntim](https://x.com/amohntim2?t=MMRp-KWy9udN8gHIjZSrxQ&s=09)" target="blank"><img src="https://img.shields.io/twitter/follow/amohntim?logo=twitter&style=for-the-badge" alt="amohntim" /></a> </p>
+---
 
-<h3 align="center">GitHub Streak Stats 🔥</h3>
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amoh-ntim&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-
-<h3 align="center">GitHub Achievements 🏆</h3>
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amoh-ntim&theme=gruvbox&margin-w=15&margin-h=15&column=7&no-frame=true" alt="GitHub Trophies" />
-  </a> 
+### 🎨 Frontend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
 </p>
 
-- 🔭 I’m currently working on **fullStack projects with a few IT companies**
-
-- 🌱 I’m a **Computer Scientist and Currently diving deep into fullStack technologies like React, JavaScript, React Native, along side Artificial Intelligence and a multitude of others.**
-
-- 👯 I’m looking to collaborate on **numerous IT projects**
-
-- 💬 Ask me about **React, React Native, Node, MongoDB and Javascript (MERN))**
-
-- 📫 How to reach me **amohntim123@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/amoh-ntim-46855420a](https://www.linkedin.com/in/amoh-ntim-46855420a)
-
-- ⚡ Fun fact **I harmonize my love for music, coding and programming , and basketball to create my own unique rhythm in life.**
-
-  <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Programming Languages -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-
-  <!-- Frontend Development -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-
-  <!-- Backend Development -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-
-  <!-- Databases -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-
-  <!-- DevOps & Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://docker.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-
-  <!-- Design Tools -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
- 
+### ⚙️ Backend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 </p>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amohntim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amohntim" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amoh ntim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amoh ntim" height="30" width="40" /></a>
-<a href="https://instagram.com/i.ntim_ate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.ntim_ate" height="30" width="40" /></a>
+### 🗄️ Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Add your language and tool icons here as before -->
+### 🔧 Tools & Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
+---
 
+## 📊 GitHub Analytics
 
+<div align="center">
+  
+### 📈 GitHub Stats
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amoh-ntim&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amoh-ntim&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amoh-ntim&show_icons=true&locale=en&layout=compact&hide_border=true&theme=highcontrast" alt="amoh-ntim Most Used Languages" /></p>
+### 💻 Most Used Languages
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoh-ntim&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=600" alt="Top Languages"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amoh-ntim&show_icons=true&locale=en&hide_border=true&theme=highcontrast" alt="amoh-ntim GitHub Stats" /></p>
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=amoh-ntim&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+
+### 📊 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amoh-ntim&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🎵 Fun Section
+
+<div align="center">
+
+### 💭 Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+### 🐍 GitHub Contribution Snake
+<img src="https://raw.githubusercontent.com/amoh-ntim/amoh-ntim/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+**⭐ From [amoh-ntim](https://github.com/amoh-ntim) | Made with ❤️ and lots of ☕**
+
+</div>
