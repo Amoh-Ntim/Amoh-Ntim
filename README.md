@@ -14,12 +14,12 @@
 ## 🌟 About Me
 
 ```typescript
-const amohNtim = {
+const AmohNtim = {
     location: "Ghana 🇬🇭",
-    currentRole: "Full-Stack Developer",
+    currentRole: "Software Engineer",
     education: "Computer Science",
     passions: ["Coding", "Music", "Basketball", "AI/ML"],
-    currentFocus: "Building scalable web applications with modern tech stack",
+    currentFocus: "Building scalable software applications with modern tech stack",
     openToCollaborate: true,
     funFact: "I harmonize my love for music, coding, and basketball! 🎵💻🏀"
 };
