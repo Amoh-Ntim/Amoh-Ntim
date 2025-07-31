@@ -108,7 +108,11 @@ const amohNtim = {
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amoh-ntim&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
 ### 💻 Most Used Languages
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoh-ntim&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=600" alt="Top Languages"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoh-ntim&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=600&cache_seconds=1800&exclude_repo=github-readme-stats" alt="Top Languages"/>
+
+### 📊 Alternative Language Stats (More Dynamic)
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoh-ntim&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Most Used Languages"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoh-ntim&theme=radical&hide_border=true&layout=donut&langs_count=6" alt="Language Distribution"/>
 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=amoh-ntim&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
