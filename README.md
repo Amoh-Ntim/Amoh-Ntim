@@ -24,7 +24,15 @@ const amohNtim = {
     funFact: "I harmonize my love for music, coding, and basketball! 🎵💻🏀"
 };
 ```
+### 🔥 GitHub Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amoh-ntim&theme=radical" alt="GitHub Summary"/>
 
+### 📊 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amoh-ntim&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+
+### 💻 Most Used Languages
+<img width="49%" src="https://github-readme-stats-ntim-amoh.vercel.app/api/top-langs/?username=amoh-ntim&theme=radical&hide_border=true&layout=compact&langs_count=10&hide=html,css&count_private=true" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats-ntim-amoh.vercel.app/api/top-langs/?username=amoh-ntim&theme=radical&hide_border=true&layout=donut&langs_count=8&count_private=true" alt="Languages Donut Chart"/>
 ---
 
 ## 🎯 Current Focus
