@@ -127,9 +127,6 @@ const amohNtim = {
 ### 💭 Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
-### 🐍 GitHub Contribution Snake
-<img src="https://raw.githubusercontent.com/amoh-ntim/amoh-ntim/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
 </div>
 
 ---
