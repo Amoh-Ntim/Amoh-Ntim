@@ -19,7 +19,7 @@ const amohNtim = {
     currentRole: "Full-Stack Developer",
     education: "Computer Science",
     passions: ["Coding", "Music", "Basketball", "AI/ML"],
-    currentFocus: "Building scalable software applications with modern tech stack",
+    currentFocus: "Building scalable web applications with modern tech stack",
     openToCollaborate: true,
     funFact: "I harmonize my love for music, coding, and basketball! 🎵💻🏀"
 };
@@ -103,22 +103,23 @@ const amohNtim = {
 
 <div align="center">
   
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Streak
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amoh-ntim&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amoh-ntim&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
-### 💻 Most Used Languages
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoh-ntim&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=600&cache_seconds=1800&exclude_repo=github-readme-stats" alt="Top Languages"/>
+### 📊 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amoh-ntim&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 
-### 📊 Alternative Language Stats (More Dynamic)
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoh-ntim&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Most Used Languages"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoh-ntim&theme=radical&hide_border=true&layout=donut&langs_count=6" alt="Language Distribution"/>
+### 💻 Languages I Code In (Real-time via WakaTime)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=amohntim&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="WakaTime Languages"/>
+
+### ⏰ This Week's Coding Activity
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=amohntim&theme=radical&hide_border=true&custom_title=Weekly%20Coding%20Stats" alt="Weekly Coding Activity"/>
 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=amoh-ntim&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 
-### 📊 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amoh-ntim&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
 
 </div>
 
