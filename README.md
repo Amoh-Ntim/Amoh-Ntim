@@ -108,14 +108,14 @@ const amohNtim = {
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amoh-ntim&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
 ### 💻 Most Used Languages
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoh-ntim&theme=radical&hide_border=true&layout=compact&langs_count=10&hide=html,css" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoh-ntim&theme=radical&hide_border=true&layout=donut&langs_count=8" alt="Languages Donut Chart"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoh-ntim&theme=radical&hide_border=true&layout=compact&langs_count=10&hide=html,css&count_private=true" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoh-ntim&theme=radical&hide_border=true&layout=donut&langs_count=8&count_private=true" alt="Languages Donut Chart"/>
 
 ### 📊 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amoh-ntim&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 
 ### 📈 Detailed Language Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoh-ntim&theme=radical&hide_border=true&layout=compact&langs_count=12&exclude_repo=repo-name-to-exclude&custom_title=Repository%20Language%20Breakdown" alt="Detailed Language Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoh-ntim&theme=radical&hide_border=true&layout=compact&langs_count=12&exclude_repo=repo-name-to-exclude&custom_title=Repository%20Language%20Breakdown&count_private=true" alt="Detailed Language Stats"/>
 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=amoh-ntim&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
